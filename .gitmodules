@@ -1,0 +1,3 @@
+[submodule "Second-repo"]
+	path = Second-repo
+	url = https://github.com/Sample-Foundation/Second-repo
