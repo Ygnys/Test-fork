@@ -1,3 +1,7 @@
 [submodule "Second-repo"]
 	path = Second-repo
 	url = https://github.com/Sample-Foundation/Second-repo
+[submodule "third-repo"]
+	path = third-repo
+	url = https://github.com/Sample-Foundation/third-repo
+	branch = main
