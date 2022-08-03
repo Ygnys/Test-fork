@@ -5,3 +5,6 @@
 	path = third-repo
 	url = https://github.com/Sample-Foundation/third-repo
 	branch = main
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/Sample-Foundation/submodule

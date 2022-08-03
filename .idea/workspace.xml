@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2bd48ee5-ef87-4027-81db-fdf096c646ea" name="Default Changelist" comment="" />
+    <list default="true" id="2bd48ee5-ef87-4027-81db-fdf096c646ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/submodule" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third-repo" beforeDir="false" afterPath="$PROJECT_DIR$/third-repo" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,20 +15,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2A3pX2huBjWe4tGLGvaHozdOUvQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="app.teamhub.Diff-filters" value="{&quot;pushedChanges&quot;:true,&quot;unpushedChanges&quot;:true,&quot;todo&quot;:false,&quot;inProgress&quot;:true,&quot;readyForReview&quot;:true,&quot;stale&quot;:false,&quot;forks&quot;:true,&quot;offline&quot;:true,&quot;nonConflicting&quot;:false}" />
-    <property name="app.teamhub.Gutter-filters" value="{&quot;pushedChanges&quot;:true,&quot;unpushedChanges&quot;:true,&quot;todo&quot;:false,&quot;inProgress&quot;:true,&quot;readyForReview&quot;:true,&quot;stale&quot;:false,&quot;forks&quot;:true,&quot;offline&quot;:true,&quot;nonConflicting&quot;:true}" />
-    <property name="app.teamhub.trackedBranches" value="-15njaih/first-branch,-15njaih/main,-15njaih/second-branch,-15njaih/secondd-branch,-15njaih/third-branch" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "app.teamhub.trackedBranches": "-1pcpb7t/10-the-newest-issue,-1pcpb7t/11-lorem-ipsum-dolor,-1pcpb7t/12-how-is-it,-1pcpb7t/7-can-i-assign-issue-to-someone,-1pcpb7t/8-what-happens-with-this-issue,-1pcpb7t/New-branch,-1pcpb7t/Thursday,-1pcpb7t/aaa,-1pcpb7t/ccc,-1pcpb7t/fifth,-1pcpb7t/first-branch,-1pcpb7t/freds-issue,-1pcpb7t/freds-issue2,-1pcpb7t/main,-1pcpb7t/new,-1pcpb7t/new-test,-1pcpb7t/second-branch,-1pcpb7t/secondd-branch,-1pcpb7t/seven,-1pcpb7t/six,-1pcpb7t/third-branch,-1pcpb7t/wednesday,1smvivv/main,7edjl4/main",
+    "last_opened_file_path": "/Users/agnieszkastec/code/GitLive-repos/Test GitHub Issues"
+  }
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
