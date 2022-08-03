@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bd48ee5-ef87-4027-81db-fdf096c646ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/submodule" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/third-repo" beforeDir="false" afterPath="$PROJECT_DIR$/third-repo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third-repo/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,20 +13,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Second-repo" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2A3pX2huBjWe4tGLGvaHozdOUvQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "app.teamhub.trackedBranches": "-1pcpb7t/10-the-newest-issue,-1pcpb7t/11-lorem-ipsum-dolor,-1pcpb7t/12-how-is-it,-1pcpb7t/7-can-i-assign-issue-to-someone,-1pcpb7t/8-what-happens-with-this-issue,-1pcpb7t/New-branch,-1pcpb7t/Thursday,-1pcpb7t/aaa,-1pcpb7t/ccc,-1pcpb7t/fifth,-1pcpb7t/first-branch,-1pcpb7t/freds-issue,-1pcpb7t/freds-issue2,-1pcpb7t/main,-1pcpb7t/new,-1pcpb7t/new-test,-1pcpb7t/second-branch,-1pcpb7t/secondd-branch,-1pcpb7t/seven,-1pcpb7t/six,-1pcpb7t/third-branch,-1pcpb7t/wednesday,1smvivv/main,7edjl4/main",
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "app.teamhub.trackedBranches": "1smvivv/main,-11lhmr0/main,-1pcpb7t/10-the-newest-issue,-1pcpb7t/11-lorem-ipsum-dolor,-1pcpb7t/12-how-is-it,-1pcpb7t/7-can-i-assign-issue-to-someone,-1pcpb7t/8-what-happens-with-this-issue,-1pcpb7t/New-branch,-1pcpb7t/Thursday,-1pcpb7t/aaa,-1pcpb7t/ccc,-1pcpb7t/fifth,-1pcpb7t/first-branch,-1pcpb7t/freds-issue,-1pcpb7t/freds-issue2,-1pcpb7t/main,-1pcpb7t/new,-1pcpb7t/new-test,-1pcpb7t/second-branch,-1pcpb7t/secondd-branch,-1pcpb7t/seven,-1pcpb7t/six,-1pcpb7t/third-branch,-1pcpb7t/wednesday,7edjl4/main,19cr4ks/main",
     "last_opened_file_path": "/Users/agnieszkastec/code/GitLive-repos/Test GitHub Issues"
   }
 }]]></component>
@@ -51,5 +54,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
